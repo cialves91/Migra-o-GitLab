@@ -51,5 +51,4 @@ Tenho **proficiência em inglês**, o que me permite compreender e comunicar em 
 
 Estou determinada a evoluir profissionalmente e contribuir com times que valorizam boas práticas de testes e entrega de software com qualidade.
 
-  
-🔗 LinkedIn: https://www.linkedin.com/in/cintialvesss
+
